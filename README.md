@@ -1,4 +1,5 @@
-E Library Managemnt System Team Members:- 1.Priyanka MS - 4MC23IS082 2.Sanika H - 4MC23IS095 3.Siri SU - 4MC23IS106 4.Spoorthi VS - 4MC23IS107
+E Library Managemnt System
+Team Members:- 1.Priyanka MS - 4MC23IS082 2.Sanika H - 4MC23IS095 3.Siri SU - 4MC23IS106 4.Spoorthi VS - 4MC23IS107
 
 This project is a Library Management System developed using the Django framework in Python.
 It replaces manual record-keeping in traditional libraries with a faster, more accurate, and user-friendly web-based system.
@@ -48,7 +49,7 @@ Provides accurate and secure record keeping
 Accessible from anywhere
 ⚙️ How to Setup and Run the Project
 
-Step 1: Clone or Download the Project Go to the GitHub repository: https://github.com/sanika-harish/library_management_system Click the green Code button and select Download ZIP, then extract it on your computer. Or clone it using: git clone https://github.com/sanika-harish/library_management_system.git
+Step 1: Clone or Download the Project Go to the GitHub repository: https://github.com/sanika-harish/library_management_system2 Click the green Code button and select Download ZIP, then extract it on your computer. Or clone it using: git clone https://github.com/sanika-harish/library_management_system.git
 
 Step 2: Open the Project Folder Open the extracted or cloned folder in VS Code or any Python IDE. Make sure the manage.py file is visible inside the folder.
 
